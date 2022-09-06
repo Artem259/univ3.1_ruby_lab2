@@ -12,4 +12,4 @@ s = 0.0
 end
 s = s.abs / 2
 
-print "Polygon area is ", s
+print "\nPolygon area is ", s, "\n"
